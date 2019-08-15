@@ -1,3 +1,4 @@
 /target
 /resolve_macro/target
+/test_ioc/target
 **/*.rs.bk

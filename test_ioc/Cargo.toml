@@ -1,0 +1,11 @@
+[package]
+name = "test_ioc"
+version = "0.1.0"
+authors = ["Igor Bykov <con29rus@live.ru>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "*"
+ioc = { path = "../" }
